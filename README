@@ -1,0 +1,19 @@
+* Installation
+
+You need:
+1. Interbase client
+2. IBPerl by Bill Karwin
+
+Both are available at http://www.interbase.com.
+
+After installing the above prerequisites, run:
+# perl Makefile.PL
+# make
+# make install
+
+That's all. Try some examples at eg/ directory.
+
+Enjoy!
+
+Edwin.
+
